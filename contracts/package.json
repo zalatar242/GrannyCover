@@ -16,6 +16,7 @@
     "@polkadot-labs/hdkd": "^0.0.10",
     "micro-sr25519": "^0.1.0",
     "@scure/bip32": "^1.6.1",
-    "@scure/bip39": "^1.5.1"
+    "@scure/bip39": "^1.5.1",
+    "@openzeppelin/contracts": "^4.9.0"
   }
 }
